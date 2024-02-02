@@ -1,7 +1,7 @@
 ## @GlennMcA-Dev
 - 👋 Hi, I’m @glennmca-dev or Glenn.
 - 👀 I’m interested in programming, technology, gaming and cool cars. :car:
-- 🌱 I’m currently learning QA engineering through my internship. I am also undertaking a few personal projects to boost my progress.
+- 🌱 I’m a Software Engineer using mostly Java
 - 💞️ I’m looking to collaborate on anything cool when i have time!
 - 📫 How to reach me:
   - E-Mail: glennmca.dev@gmail.com
